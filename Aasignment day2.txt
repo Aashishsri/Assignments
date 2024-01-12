@@ -1,0 +1,30 @@
+                              
+                                         ASSIGNMENT-1
+
+Q1. What is a Computer?
+Ans-Computer is a machine that accept information and processes it according to a program ,
+    software or set of instructions thats tells how the information should be handled. 
+
+Q2. What is RAM?
+Ans-RAM Stands for Random access memory. It is Volatile in nature.
+    It is also know as Primary memory or main memory of the system.
+
+Q3. Where is data stored in a computer?
+Ans-Hard disk drives(HDDs),flash based solid-state drives (SSDs)and optical disc drives stores the data of a computer.
+    It is also known as Secondary memory of a computer.
+
+Q4. What is that input device used to type text and numbers on a document in the computer system?
+Ans-Keyboard is the device used to type the tex and numbers on a document in the computer system.
+ 
+Q5. What are the output devices?
+Ans-The output devices are monitor,printer,speakers and other bluetooth devices. 
+
+Q6. Which is the input device that allows a user to move the cursor or pointer on the screen?
+Ans-Mouse is the device that allows users to move the cursor or pointer on the screen.
+ 
+Q7. Which language is directly understood by the computer without a translation program?
+Ans-Machine language or binary language is directly understood by the computer without any translation.
+
+Q8. What are input devices?
+Ans-Input devices is a hardware device that transfer data to a computer and allow user to control.
+    Input devices are Keyboard,Mouse,Scanner and joystick. 
