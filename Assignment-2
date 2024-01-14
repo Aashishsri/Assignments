@@ -1,0 +1,47 @@
+
+                                         ASSIGNMENT-2
+
+Q.1 What is Git?
+Ans-Git is a popular Version control System.It is created in 2005.
+    Git is basically use for tracking code changes ,to track history of files 
+    and for coding collaborations.
+
+Q.2 What do you understand by the term 'version Control System'?
+Ans- It use to record changes to a file/files , So we can recall specific version later,
+     If we do any any changes in source code then a new version will be created.
+     There are three types of version control system:-
+      1.centralized version control system.
+      2.Distributive version control system.
+      3.Local version  control system.
+
+Q.3 What is GitHub?
+Ans-GitHub is a code hosting platform for version control system.It allows you
+    to work together on projects from anywhere.
+
+Q.4 Mention some popular Git hosting services.
+Ans- Git hosting services is a service that allows users to store and
+     manage their Git repositories.
+     Some popular git hosting services are:-
+     1.Amazon AWS CodeCommit.
+     2.Assemla
+     3.Codebase,etc.
+
+Q.5 Different types of version control systems.
+Ans-  There are three types of version control system:-
+      1.centralized version control system.
+      2.Distributive version control system.
+      3.Local version  control system.
+
+
+Q.6 What benefits come with using GIT?
+Ans-Benefits of using Git:-
+    -> Coding collaboration is possible.
+    -> Distributed Development.
+
+Q.7 What is a Git repository? 
+Ans-A Git repository is a central storage location for managing and tracking changes in files 
+   and directories.It is a crucial component of the Git version control system.
+
+Q.8 How can you initialize a repository in Git?
+Ans- To create or initialize a repository in Git we will use git init command.
+     git init is a one time command to setup a new repo.
