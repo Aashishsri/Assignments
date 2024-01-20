@@ -1,0 +1,31 @@
+                                                  ASSIGNMENT-3
+
+Q-1. How to check if git is available on your system?
+Ans-we can check if git is available on your system is not by opening a command prompt 
+    or powershell and typing "git --version".
+
+Q-2. How to initialize a new Git repository?
+Ans-we can initialize a new git repository by using a command "git init"
+    in our gitbash. 
+
+Q-3. How to tell git about your name and email?
+Ans-Firstly we have to open command prompt then to set your username-
+    git config --global user.name "First_name Last_name".
+    Set your email "Email@example.com".
+
+Q-4. How to add a file to the staging area?
+Ans- To add a file to the staging area we use- git add filename,
+     and to stage a folder use 'git add [folderpath]
+
+Q-5. How to remove a file from the staging area?
+Ans- To remove a file from staging area we have to type "git reset [filename]"
+     in git bash.
+
+Q-6. How to make a commit?
+Ans- If want to commit then we have to give a command on git that is [git commit -m "add a message"].
+
+Q-7. How to send your changes to a remote repository?
+Ans- To send your changes to a remote repository, run [git push -u remote-name branch-name].
+
+Q-8. What is the difference between clone and pull?
+Ans-Git clone copies all files to the local machine,while git pull copies only modified files to the local machine.  
