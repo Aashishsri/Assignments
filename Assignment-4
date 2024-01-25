@@ -1,0 +1,28 @@
+                                      ASSIGNMENT-4
+
+Q-1. What is Programming language?
+Ans- Programming language is a language/way for a programmer/developer to communicate with computer machine.
+
+Q-2. Why do we need a programming language?
+Ans- we need a programming language to communicate with computer for accomplish our desire tasks.
+
+Q-3. What are the features of Java?
+Ans- Features of Java :-
+     Platform independent
+     Simple
+     Object-oriented
+     Portable
+     Distributed,etc.
+
+Q-4. What is an Object?
+Ans- Object is anything around us like table,chair,etc. Either it is tangible
+     and intangible.
+
+Q-5. What is a class?
+Ans- Class is a collection of similar things like example- Animal,Student,etc.
+ 
+Q-6. Explain about the main() method in Java?
+Ans-The Java main method is usually the first method you learn about 
+    when you start programming in Java because its the entry point for executing a Java program,
+    It is predefined in JVM.
+ 
